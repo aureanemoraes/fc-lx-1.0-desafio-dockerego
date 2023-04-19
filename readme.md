@@ -14,4 +14,4 @@ Os requisitos do desafio são:
 `docker run nanem/fullcycle`
 
 # Link do respositório da imagem
-https://hub.docker.com/repository/docker/nanem/fullcycle/general 
+https://hub.docker.com/r/nanem/fullcycle
